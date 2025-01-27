@@ -1,14 +1,14 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
-## Name: 
-### Module:
+## Name: Vlariel Espinosa
+### Module: 1
 
 <!-- Repeat the below as needed-->
-### Date: [MM/DD/YYYY]
+### Date: [01/27/2025]
 
 #### Goals for this Module
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [X] Finish Game Studio Assignment
+- [X] Brainstorm games to make
+- [ ] Make Social Media Accounts for my Studio
 
 #### Progress
 - **What I accomplished**:
