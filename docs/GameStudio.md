@@ -55,7 +55,7 @@
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Unique Mechanics to make games feel fresh and new, Stylized Interface/Graphics to seperate our games visually from others, and ]
+> [Unique Mechanics to make games feel fresh and new, Stylized Interface/Graphics to seperate our games visually from others, and wackiness that will attract those with silly hearts]
 
 ---
 
@@ -75,15 +75,17 @@
 
 - **Logo Style:** [Playful.]
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - [Tagline 1: "To play or not to play."]
+  - [Tagline 2: "Fun is subjective."]
+  - [Tagline 3: "Play games, Love games, Make games."]
 
 -- **Sketches/Logo**:
+
+![image](https://github.com/user-attachments/assets/80a5134a-b628-4091-89b5-5a961601cc7b)
 
 ---
 
 ## Additional Notes
 *Include any other ideas, inspirations, or thoughts related to your studio or project.*
 
-> [Free space for brainstorming!]
+> [I have games that I'm working on currently, and one of them does not fit the wacky vibe I want to make (it's more of a passion project) but I hope that when it does release years from now it hits with an audience and the same with any other games I make under Luducrus. On a more present note, I am very excited to make a board game for this class.]
