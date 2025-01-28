@@ -8,26 +8,26 @@
 #### Goals for this Module
 - [X] Finish Game Studio Assignment
 - [X] Brainstorm games to make
-- [ ] Make Social Media Accounts for my Studio
+- [X] Make Social Media Accounts for my Studio
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--Your entry here or N/A if not applicable for this entry-->
+  - <!--I have completed my studio brainstorm and everything in it including, sketch of logo, possible domains, taglines, named it Luducrus, and started thinking of possible games to make under it-->
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--N/A-->
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--Your entry here or N/A if not applicable for this entry-->
+  -  <!--N/A-->
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--N/A-->
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--N/A-->
 <!--
 
 - Example prompts:
@@ -39,4 +39,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  <!--Brainstorm a boardgame to make(which I have already started)-->
