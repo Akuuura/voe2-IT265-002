@@ -13,21 +13,21 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <!--I have completed my studio brainstorm and everything in it including, sketch of logo, possible domains, taglines, named it Luducrus, and started thinking of possible games to make under it-->
+  - I have completed my studio brainstorm and everything in it including, sketch of logo, possible domains, taglines, named it Luducrus, and started thinking of possible games to make under it
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <!--N/A-->
+  - N/A
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <!--N/A-->
+  - N/A
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--N/A-->
+- N/A
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <!--N/A-->
+- N/A
 <!--
 
 - Example prompts:
@@ -39,4 +39,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <!--Brainstorm a boardgame to make(which I have already started)-->
+- Brainstorm a boardgame to make(which I have already started)
