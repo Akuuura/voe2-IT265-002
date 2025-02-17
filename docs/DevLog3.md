@@ -8,7 +8,7 @@
 #### Goals for this Module
 - [X] Finish Case Study Discussion
 - [X] Keep brainstorming games to make
-- [] N/A
+- [ ] N/A
 
 #### Progress
 - **What I accomplished**:
