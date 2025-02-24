@@ -27,14 +27,6 @@
 
 #### Free Thinking
 - N/A
-<!--
-
-- Example prompts:
-  - "What if the player interactions were asynchronous instead of real-time?"
-  - "How could ECS improve performance in this system?"
-  - "Does my current design support scalability? How can it improve?"
-  
--->
 
 #### Next Steps
 - Module 5
