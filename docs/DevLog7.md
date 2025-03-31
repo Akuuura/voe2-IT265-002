@@ -1,14 +1,14 @@
 <!-- Markdown Docs: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ## Name: Vlariel Espinosa
-### Module: 1
+### Module: 7
 
 <!-- Repeat the below as needed-->
 ### Date: [03/31/2025]
 
 #### Goals for this Module
-- [X] Finish Game Studio Assignment
-- [X] Brainstorm games to make
-- [X] Make Social Media Accounts for my Studio
+- [X] Present Physical Prototype
+- [X] Start making art for cards
+- [X] Make plans for digital prototype
 
 #### Progress
 - **What I accomplished**:
