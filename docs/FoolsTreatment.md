@@ -7,9 +7,9 @@
 Enter the name of your game concept. 
 Make it concise yet engaging, reflecting the game's essence. 
 -->
-
---- **Fools** - The game is revolved around not knowing and strategic chance, making the players none the wiser of the next card. One of the main cards is also called 
+**Fools** - The game is revolved around not knowing and strategic chance, making the players none the wiser of the next card. One of the main cards is also called 
 "The Fool".  
+---
 
 ## Concept Statement
 <!-- 
